@@ -11,6 +11,22 @@
     },
     "mDAI": {
       "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
-    }
+    },
+    "explorerURL": "#"
+  },
+  "80001": {
+    "exchange": {
+      "address": "0xb2931Be4092EEF490529bc912175ea40e31cd3d0"
+    },
+    "DApp": {
+      "address": "0xE91fb58299141092daA78d07f4D3D3b9303692c2"
+    },
+    "mETH": {
+      "address": "0x355a7a6102952BECB6100b7Ed07cdB6b4bF36c81"
+    },
+    "mDAI": {
+      "address": "0x4333cc6474F93d61E573c996D69c7BFF25697a4f"
+    },
+    "explorerURL": "https://mumbai.polygonscan.com/"
   }
 }
